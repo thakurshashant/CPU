@@ -1,5 +1,5 @@
 # CPUScheduler
-Website link : https://bit.ly/3DWKMV6  or  https://ravipatel1309.github.io/CPUScheduler/
+Website link : [https://thakurshashant.github.io/CPU/](https://thakurshashant.github.io/CPU/)
 
 #FCFS #SJF #RoundRobin #SRTF #Priority
 #CPU Scheduling Algorithm
